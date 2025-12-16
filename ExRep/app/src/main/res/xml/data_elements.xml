@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+
+    <!-- ======= BRAZOS ======= -->
+    <item>
+        <title>Brazos</title>
+        <icon>@drawable/ic_brazos</icon>
+
+        <subtitle>Flexiones diamante</subtitle>
+        <subtitle>Fondos en paralelas</subtitle>
+        <subtitle>Curl con mancuernas</subtitle>
+        <subtitle>Extensiones de tríceps</subtitle>
+        <subtitle>Dominadas supinas</subtitle>
+    </item>
+
+    <!-- ======= ESPALDA ======= -->
+    <item>
+        <title>Espalda</title>
+        <icon>@drawable/ic_espalda</icon>
+
+        <subtitle>Dominadas pronas</subtitle>
+        <subtitle>Remo con barra</subtitle>
+        <subtitle>Peso muerto</subtitle>
+        <subtitle>Jalón al pecho</subtitle>
+        <subtitle>Remo con mancuerna a un brazo</subtitle>
+    </item>
+
+    <!-- ======= PECHO ======= -->
+    <item>
+        <title>Pecho</title>
+        <icon>@drawable/ic_pecho</icon>
+
+        <subtitle>Press banca</subtitle>
+        <subtitle>Press inclinado</subtitle>
+        <subtitle>Aperturas con mancuernas</subtitle>
+        <subtitle>Flexiones clásicas</subtitle>
+        <subtitle>Fondos inclinados</subtitle>
+    </item>
+
+    <!-- ======= PIERNAS ======= -->
+    <item>
+        <title>Piernas</title>
+        <icon>@drawable/ic_piernas</icon>
+
+        <subtitle>Sentadillas</subtitle>
+        <subtitle>Zancadas</subtitle>
+        <subtitle>Prensa de piernas</subtitle>
+        <subtitle>Elevaciones de gemelos</subtitle>
+        <subtitle>Peso muerto rumano</subtitle>
+    </item>
+
+</elements>
